@@ -1,38 +1,45 @@
 # 📸 ReadSnap  
-*Track your study journey, one screenshot at a time*
+*Track your study journey, one screenshot at a time*  
+**Designed for Iranian users with Persian date formatting**
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/readsnap)](https://github.com/yourusername/readsnap/issues)  
-[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/yourusername/readsnap/releases)  
+[![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/mehdilatif/readsnap/releases)  
 
 ---
 
 ## 🌟 Why Use ReadSnap?  
-Tired of losing track of where you left off in lengthy documents? **ReadSnap** solves this by:  
-- 📚 **Visual Progress Tracking**: Auto-numbered screenshots for sequential study materials  
-- ⏰ **Time Awareness**: Timestamps show exactly when you captured each section  
-- 🔍 **Quick Reference**: Organized screenshots make revisiting content effortless  
-
-Perfect for students, researchers, and anyone tackling:  
-- 📄 Research papers  
-- 📖 Thesis/dissertation drafts  
-- 📅 Long-form articles  
-- 📋 Any document requiring sequential review  
+For Iranian students/researchers:  
+- 📅 **Persian Date Support**: Uses Jalali calendar (تقویم جلالی) for all timestamps  
+- 🌍 **Localized Experience**: Designed with Iranian users in mind  
+- 📚 **Perfect for Iranian Academia**: Tracks فارسی documents, پایان‌نامه‌ها, and research papers  
 
 ---
 
 ## 🚀 Key Features  
 | Feature                | Description                                  |
 |------------------------|----------------------------------------------|
-| **Sequential Capture** | Auto-incremented numbering (001, 002, ...)  |
-| **Timestamped**        | Records capture time (YYYY-MM-DD_HH-MM)      |
-| **Lightweight**        | Minimalist interface, no resource hog        |
-
+| **Jalali Calendar**    | Persian date formatting (e.g., `1403-01-10`) |
+| **Sequential Capture** | Auto-numbered screenshots (001, 002, ...)    |
+| **Timestamped**        | Records exact capture time (تاریخ و ساعت)    |
 
 ---
 
-## 📱 Quick Start  
-1. **Install**:  
-   ```bash
-   git clone https://github.com/yourusername/readsnap.git
-   pip install -r requirements.txt
+## 📱 Usage Example (فارسی)  
+1. Open your study material  
+2. Press `Ctrl+Shift+S` to select area  
+3. Screenshots saved like:  
+   `1403-01-10_14-30_001.png`  
+   *(شنبه ۱۰ بهمن ۱۴۰۳ - ۲:۳۰ بعدازظهر)*  
+
+*سازماندهی شماره‌دار و زمان‌دار با تاریخ شمسی*
+
+---
+
+## 📝 License  
+**MIT License** – مجوز کاربرد آزاد برای کاربران ایرانی  
+[Read full license](LICENSE)  
+
+---
+
+Made with ❤️ for Iranian users by [bad_little_boy]  
+*مطالعه بهتر، نه سختتر* 🚀  
