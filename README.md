@@ -4,7 +4,9 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Version](https://img.shields.io/badge/version-1.0.0-green)](https://github.com/mehdilatif/readsnap/releases)  
-
+## 📦 Download & Install  
+### Latest Release: **V.1**  
+[⬇️ Direct Download](https://github.com/mehdilatif/ReadSnap/releases/tag/V.1)  
 ---
 
 ## 🌟 Why Use ReadSnap?  
